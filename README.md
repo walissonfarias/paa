@@ -1,5 +1,5 @@
 # Projeto e Análise de Algoritmos - Lista 02
-Referências dos algoritmos utilizadas:
+Referências dos algoritmos utilizados:
 
 Introduction to the design & analysis of algorithms / Anany Levitin. 3rd ed. Tenenbaum, Aaron M.
 
