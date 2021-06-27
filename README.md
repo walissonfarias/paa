@@ -30,3 +30,5 @@ Introdução á  Programação Curso em C++ Dr. Alan R. R. de Freitas, Edição
 
 Algoritmos / Thomas H. Cormen... [et al.] ; [tradução Arlete Simille Marques]. Rio de Janeiro : Elsevier, 2012. il.
 Tradução de: Introduction to algorithms, 3rd ed.
+
+https://pt.wikipedia.org/wiki/Busca_em_profundidade
